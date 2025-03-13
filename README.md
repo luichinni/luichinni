@@ -9,7 +9,5 @@ No pongo alias para que no me roben mis datos personales💀💀.
 ### Mis stats
 ![luichinni's Stats](https://github-readme-stats.vercel.app/api?username=luichinni&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 
-![luichinni's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luichinni&theme=blueberry&hide_border=true)
-
 ![luichinni's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luichinni&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 

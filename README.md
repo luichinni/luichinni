@@ -35,10 +35,13 @@ Me gusta desafiarme a crear mis propias herramientas siempre que el tiempo y los
 |![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)| App mobile para Carnes V (Negocio)| 2025 | E-Shop con pedidos y pagos integrados en la app |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | [BBB-Enhancer](https://github.com/luichinni/BBB-Enhancer) | 2024 - 2026 | Extensión para agregar funcionalidades faltantes a BBB en las grabaciones de clase |
 | ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) | [Proyecto de Software](https://github.com/luichinni/CEDICA-Proyecto-De-Software-2024) | 2024 | Primer encuentro con Flask y Postgres |
+</div>
 
 > [!NOTE]
 > Algunos de los trabajos mencionados son privados de la empresa o negocio para la que se realizó el trabajo.
 
+<div align="center">
+  
 ## A Futuro
 Planeo seguir formandome y creando proyectos que demuestren mis conocimientos, mayormente centrado en mejorar y comprender al máximo el entorno de .NET a la vez que adquiero más habilidades web.
 
